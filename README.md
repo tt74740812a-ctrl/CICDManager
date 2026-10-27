@@ -28,4 +28,4 @@
 - Vũ Tiến Dũng - TH30.15
 - Khóa 30
 - Ngành: Công Nghệ Thông Tin
-- Đồ án môn học – Hệ thống tự động hóa kiểm thử và triển khai phần mềm.
+- Đồ án môn học Java – Hệ thống tự động hóa kiểm thử và triển khai phần mềm.
