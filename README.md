@@ -18,7 +18,7 @@
 - Xem lịch sử thực thi.
 - Quản lý cấu hình và phân quyền người dùng.
 
-## 4. Cách chạy chương trình
+## 4. Cách chạy chương trình bằng NetBeans
 1. Cài đặt JDK tương thích.
 2. Mở project bằng NetBeans.
 3. Đợi Maven tải các thư viện cần thiết.
